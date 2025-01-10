@@ -47,3 +47,7 @@ require("mason-lspconfig").setup({
 require("lspconfig").clangd.setup {
     cmd = {"clangd"};
 }
+
+require("lspconfig").lua_ls.setup {
+    cmd = {"lua-language-server"};
+}
