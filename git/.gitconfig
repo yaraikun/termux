@@ -3,3 +3,8 @@
 	name = yaraikun
 [credential]
 	helper = cache
+[alias]
+	st = status
+    ad = add
+    br = branch
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
