@@ -1,0 +1,24 @@
+// Place your key bindings in this file to override the defaults
+[
+    // Explorer Netrw
+    {
+        "key": "shift+5",
+        "command": "explorer.newFile",
+        "when": "explorerViewletFocus"
+    },
+    {
+        "key": "d",
+        "command": "explorer.newFolder",
+        "when": "explorerViewletFocus"
+    },
+    {
+        "key": "shift+d",
+        "command": "deleteFile",
+        "when": "explorerViewletFocus"
+    },
+    {
+        "key": "shift+r",
+        "command": "renameFile",
+        "when": "explorerViewletFocus"
+    }
+]
