@@ -3,10 +3,10 @@
   "workbench.colorTheme": "Catppuccin Macchiato",
   "editor.fontSize": 24,
   "editor.lineNumbers": "relative",
-  "editor.minimap.enabled": false,
   "breadcrumbs.enabled": false,
   "editor.stickyScroll.enabled": false,
   "explorer.compactFolders": true,
+  "editor.rulers": [80],
   
   // Behaviour
   "editor.tabSize": 4,
@@ -68,4 +68,5 @@
     "<C-j>": false,
     "<C-b>": false,
   },
+  "editor.minimap.enabled": false,
 }
