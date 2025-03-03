@@ -2,7 +2,7 @@
 	email = evan.calupig@gmail.com
 	name = yaraikun
 [credential]
-	helper = cache
+	helper = store
 [alias]
 	st = status
     ad = add
